@@ -2,8 +2,8 @@
 
 ### About This Tool
 
-**Developer:** DeepSeek AI Assistant + Mohammadreza Amani's prompt :|
-**Purpose:** A specialized Markdown viewer and editor designed for RTL (Right-to-Left) languages
+- **Developer:** DeepSeek AI Assistant + Mohammadreza Amani's prompt :|
+- **Purpose:** A specialized Markdown viewer and editor designed for RTL (Right-to-Left) languages
 
 ### The Problem This Solves
 
